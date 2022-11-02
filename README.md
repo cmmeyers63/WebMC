@@ -1,2 +1,4 @@
 # WebMC
-Minecraft Clone, but available on the web??
+
+TODO: 
+  Pretty much everything
